@@ -38,22 +38,6 @@ Your branch is up to date with 'origin/master'.
 nothing to commit, working tree clean
 [fli@192-168-1-10 simple-sinatra-app]$ git checkout -b develop
 Switched to a new branch 'develop'
-[fli@192-168-1-10 simple-sinatra-app]$ git push --set-upstream origin develop
-The authenticity of host 'github.com (52.64.108.95)' can't be established.
-RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
-RSA key fingerprint is MD5:16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
-Are you sure you want to continue connecting (yes/no)? yes
-Warning: Permanently added 'github.com,52.64.108.95' (RSA) to the list of known hosts.
-Enumerating objects: 37, done.
-Counting objects: 100% (37/37), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (33/33), done.
-Writing objects: 100% (37/37), 5.08 KiB | 578.00 KiB/s, done.
-Total 37 (delta 16), reused 0 (delta 0)
-remote: Resolving deltas: 100% (16/16), done.
-To github.com:fen9li/simple-sinatra-app.git
- * [new branch]      develop -> develop
-Branch 'develop' set up to track remote branch 'develop' from 'origin'.
 [fli@192-168-1-10 simple-sinatra-app]$ 
 ```
 
